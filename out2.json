@@ -1,0 +1,1 @@
+{"CapitalLatitude": "Float::Non Unique", "CapitalName": "String::Non Unique", "CountryCode": "String::Unique", "ContinentName": "String::Non Unique", "CountryName": "String::Unique", "CapitalLongitude": "Float::Non Unique"}

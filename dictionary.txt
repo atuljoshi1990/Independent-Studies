@@ -1,0 +1,734 @@
+AD:::::1
+AE:::::2
+AF:::::3
+AG:::::4
+AI:::::5
+AL:::::6
+AM:::::7
+AO:::::8
+AQ:::::9
+AR:::::10
+AS:::::11
+AT:::::12
+AU:::::13
+AW:::::14
+AX:::::15
+AZ:::::16
+Abu Dhabi:::::17
+Abuja:::::18
+Accra:::::19
+Adamstown:::::20
+Addis Ababa:::::21
+Afghanistan:::::22
+Africa:::::23
+Aland Islands:::::24
+Albania:::::25
+Algeria:::::26
+Algiers:::::27
+Alofi:::::28
+American Samoa:::::29
+Amman:::::30
+Amsterdam:::::31
+Andorra:::::32
+Andorra la Vella:::::33
+Angola:::::34
+Anguilla:::::35
+Ankara:::::36
+Antananarivo:::::37
+Antarctica:::::38
+Antigua and Barbuda:::::39
+Apia:::::40
+Argentina:::::41
+Armenia:::::42
+Aruba:::::43
+Ashgabat:::::44
+Asia:::::45
+Asmara:::::46
+Astana:::::47
+Asuncion:::::48
+Atafu:::::49
+Athens:::::50
+Australia:::::51
+Austria:::::52
+Avarua:::::53
+Azerbaijan:::::54
+BA:::::55
+BB:::::56
+BD:::::57
+BE:::::58
+BF:::::59
+BG:::::60
+BH:::::61
+BI:::::62
+BJ:::::63
+BL:::::64
+BM:::::65
+BN:::::66
+BO:::::67
+BR:::::68
+BS:::::69
+BT:::::70
+BW:::::71
+BY:::::72
+BZ:::::73
+Baghdad:::::74
+Bahamas:::::75
+Bahrain:::::76
+Baku:::::77
+Bamako:::::78
+Bandar Seri Begawan:::::79
+Bangkok:::::80
+Bangladesh:::::81
+Bangui:::::82
+Banjul:::::83
+Barbados:::::84
+Basseterre:::::85
+Beijing:::::86
+Beirut:::::87
+Belarus:::::88
+Belgium:::::89
+Belgrade:::::90
+Belize:::::91
+Belmopan:::::92
+Benin:::::93
+Berlin:::::94
+Bermuda:::::95
+Bern:::::96
+Bhutan:::::97
+Bishkek:::::98
+Bissau:::::99
+Bogota:::::100
+Bolivia:::::101
+Bosnia and Herzegovina:::::102
+Botswana:::::103
+Brasilia:::::104
+Bratislava:::::105
+Brazil:::::106
+Brazzaville:::::107
+Bridgetown:::::108
+British Indian Ocean Territory:::::109
+British Virgin Islands:::::110
+Brunei Darussalam:::::111
+Brussels:::::112
+Bucharest:::::113
+Budapest:::::114
+Buenos Aires:::::115
+Bujumbura:::::116
+Bulgaria:::::117
+Burkina Faso:::::118
+Burundi:::::119
+CA:::::120
+CC:::::121
+CD:::::122
+CF:::::123
+CG:::::124
+CH:::::125
+CI:::::126
+CK:::::127
+CL:::::128
+CM:::::129
+CN:::::130
+CO:::::131
+CR:::::132
+CU:::::133
+CV:::::134
+CW:::::135
+CX:::::136
+CY:::::137
+CZ:::::138
+Cairo:::::139
+Cambodia:::::140
+Cameroon:::::141
+Canada:::::142
+Canberra:::::143
+Cape Verde:::::144
+CapitalLatitude:::::145
+CapitalLongitude:::::146
+CapitalName:::::147
+Caracas:::::148
+Castries:::::149
+Cayman Islands:::::150
+Central African Republic:::::151
+Central America:::::152
+Chad:::::153
+Charlotte Amalie:::::154
+Chile:::::155
+China:::::156
+Chisinau:::::157
+Christmas Island:::::158
+Cocos Islands:::::159
+Colombia:::::160
+Colombo:::::161
+Comoros:::::162
+Conakry:::::163
+ContinentName:::::164
+Cook Islands:::::165
+Copenhagen:::::166
+Costa Rica:::::167
+Cote d'Ivoire:::::168
+CountryCode:::::169
+CountryName:::::170
+Croatia:::::171
+Cuba:::::172
+Curaçao:::::173
+Cyprus:::::174
+Czech Republic:::::175
+D.C.:::::176
+DE:::::177
+DJ:::::178
+DK:::::179
+DM:::::180
+DO:::::181
+DZ:::::182
+Dakar:::::183
+Damascus:::::184
+Dar es Salaam:::::185
+Democratic Republic of the Congo:::::186
+Denmark:::::187
+Dhaka:::::188
+Diego Garcia:::::189
+Dili:::::190
+Djibouti:::::191
+Doha:::::192
+Dominica:::::193
+Dominican Republic:::::194
+Douglas:::::195
+Dublin:::::196
+Dushanbe:::::197
+EC:::::198
+EE:::::199
+EG:::::200
+EH:::::201
+ER:::::202
+ES:::::203
+ET:::::204
+Ecuador:::::205
+Egypt:::::206
+El Salvador:::::207
+El-Aaiún:::::208
+Equatorial Guinea:::::209
+Eritrea:::::210
+Estonia:::::211
+Ethiopia:::::212
+Europe:::::213
+FI:::::214
+FJ:::::215
+FK:::::216
+FM:::::217
+FO:::::218
+FR:::::219
+Falkland Islands:::::220
+Faroe Islands:::::221
+Federated States of Micronesia:::::222
+Fiji:::::223
+Finland:::::224
+France:::::225
+Freetown:::::226
+French Polynesia:::::227
+French Southern and Antarctic Lands:::::228
+Funafuti:::::229
+GA:::::230
+GB:::::231
+GD:::::232
+GE:::::233
+GG:::::234
+GH:::::235
+GI:::::236
+GL:::::237
+GM:::::238
+GN:::::239
+GQ:::::240
+GR:::::241
+GS:::::242
+GT:::::243
+GU:::::244
+GW:::::245
+GY:::::246
+Gabon:::::247
+Gaborone:::::248
+George Town:::::249
+Georgetown:::::250
+Georgia:::::251
+Germany:::::252
+Ghana:::::253
+Gibraltar:::::254
+Grand Turk:::::255
+Greece:::::256
+Greenland:::::257
+Grenada:::::258
+Guam:::::259
+Guatemala:::::260
+Guatemala City:::::261
+Guernsey:::::262
+Guinea:::::263
+Guinea-Bissau:::::264
+Gustavia:::::265
+Guyana:::::266
+HK:::::267
+HM:::::268
+HN:::::269
+HR:::::270
+HT:::::271
+HU:::::272
+Hagatna:::::273
+Haiti:::::274
+Hamilton:::::275
+Hanoi:::::276
+Harare:::::277
+Hargeisa:::::278
+Havana:::::279
+Heard Island and McDonald Islands:::::280
+Helsinki:::::281
+Honduras:::::282
+Hong Kong:::::283
+Honiara:::::284
+Hungary:::::285
+ID:::::286
+IE:::::287
+IL:::::288
+IM:::::289
+IN:::::290
+IO:::::291
+IQ:::::292
+IR:::::293
+IS:::::294
+IT:::::295
+Iceland:::::296
+India:::::297
+Indonesia:::::298
+Iran:::::299
+Iraq:::::300
+Ireland:::::301
+Islamabad:::::302
+Isle of Man:::::303
+Israel:::::304
+Italy:::::305
+JE:::::306
+JM:::::307
+JO:::::308
+JP:::::309
+Jakarta:::::310
+Jamaica:::::311
+Jamestown:::::312
+Japan:::::313
+Jersey:::::314
+Jerusalem:::::315
+Jordan:::::316
+Juba:::::317
+KE:::::318
+KG:::::319
+KH:::::320
+KI:::::321
+KM:::::322
+KN:::::323
+KO:::::324
+KP:::::325
+KR:::::326
+KW:::::327
+KY:::::328
+KZ:::::329
+Kabul:::::330
+Kampala:::::331
+Kathmandu:::::332
+Kazakhstan:::::333
+Kenya:::::334
+Khartoum:::::335
+Kigali:::::336
+King Edward Point:::::337
+Kingston:::::338
+Kingstown:::::339
+Kinshasa:::::340
+Kiribati:::::341
+Kosovo:::::342
+Kuala Lumpur:::::343
+Kuwait:::::344
+Kuwait City:::::345
+Kyiv:::::346
+Kyrgyzstan:::::347
+LA:::::348
+LB:::::349
+LC:::::350
+LI:::::351
+LK:::::352
+LR:::::353
+LS:::::354
+LT:::::355
+LU:::::356
+LV:::::357
+LY:::::358
+La Paz:::::359
+Laos:::::360
+Latvia:::::361
+Lebanon:::::362
+Lesotho:::::363
+Liberia:::::364
+Libreville:::::365
+Libya:::::366
+Liechtenstein:::::367
+Lilongwe:::::368
+Lima:::::369
+Lisbon:::::370
+Lithuania:::::371
+Ljubljana:::::372
+Lome:::::373
+London:::::374
+Longyearbyen:::::375
+Luanda:::::376
+Lusaka:::::377
+Luxembourg:::::378
+MA:::::379
+MC:::::380
+MD:::::381
+ME:::::382
+MF:::::383
+MG:::::384
+MH:::::385
+MK:::::386
+ML:::::387
+MM:::::388
+MN:::::389
+MO:::::390
+MP:::::391
+MR:::::392
+MS:::::393
+MT:::::394
+MU:::::395
+MV:::::396
+MW:::::397
+MX:::::398
+MY:::::399
+MZ:::::400
+Macau:::::401
+Macedonia:::::402
+Madagascar:::::403
+Madrid:::::404
+Majuro:::::405
+Malabo:::::406
+Malawi:::::407
+Malaysia:::::408
+Maldives:::::409
+Male:::::410
+Mali:::::411
+Malta:::::412
+Managua:::::413
+Manama:::::414
+Manila:::::415
+Maputo:::::416
+Mariehamn:::::417
+Marigot:::::418
+Marshall Islands:::::419
+Maseru:::::420
+Mata-Utu:::::421
+Mauritania:::::422
+Mauritius:::::423
+Mbabane:::::424
+Melekeok:::::425
+Mexico:::::426
+Mexico City:::::427
+Minsk:::::428
+Mogadishu:::::429
+Moldova:::::430
+Monaco:::::431
+Mongolia:::::432
+Monrovia:::::433
+Montenegro:::::434
+Montevideo:::::435
+Montserrat:::::436
+Morocco:::::437
+Moroni:::::438
+Moscow:::::439
+Mozambique:::::440
+Muscat:::::441
+Myanmar:::::442
+N'Djamena:::::443
+N/A:::::444
+NA:::::445
+NC:::::446
+NE:::::447
+NF:::::448
+NG:::::449
+NI:::::450
+NL:::::451
+NO:::::452
+NP:::::453
+NR:::::454
+NU:::::455
+NULL:::::456
+NZ:::::457
+Nairobi:::::458
+Namibia:::::459
+Nassau:::::460
+Nauru:::::461
+Nepal:::::462
+Netherlands:::::463
+New Caledonia:::::464
+New Delhi:::::465
+New Zealand:::::466
+Niamey:::::467
+Nicaragua:::::468
+Nicosia:::::469
+Niger:::::470
+Nigeria:::::471
+Niue:::::472
+Norfolk Island:::::473
+North America:::::474
+North Korea:::::475
+North Nicosia:::::476
+Northern Cyprus:::::477
+Northern Mariana Islands:::::478
+Norway:::::479
+Nouakchott:::::480
+Noumea:::::481
+Nuku'alofa:::::482
+Nuuk:::::483
+OM:::::484
+Oman:::::485
+Oranjestad:::::486
+Oslo:::::487
+Ottawa:::::488
+Ouagadougou:::::489
+PA:::::490
+PE:::::491
+PF:::::492
+PG:::::493
+PH:::::494
+PK:::::495
+PL:::::496
+PM:::::497
+PN:::::498
+PR:::::499
+PS:::::500
+PT:::::501
+PW:::::502
+PY:::::503
+Pago Pago:::::504
+Pakistan:::::505
+Palau:::::506
+Palestine:::::507
+Palikir:::::508
+Panama:::::509
+Panama City:::::510
+Papeete:::::511
+Papua New Guinea:::::512
+Paraguay:::::513
+Paramaribo:::::514
+Paris:::::515
+Peru:::::516
+Philippines:::::517
+Philipsburg:::::518
+Phnom Penh:::::519
+Pitcairn Islands:::::520
+Plymouth:::::521
+Podgorica:::::522
+Poland:::::523
+Port Louis:::::524
+Port Moresby:::::525
+Port of Spain:::::526
+Port-Vila:::::527
+Port-au-Prince:::::528
+Port-aux-Français:::::529
+Porto-Novo:::::530
+Portugal:::::531
+Prague:::::532
+Praia:::::533
+Pretoria:::::534
+Pristina:::::535
+Puerto Rico:::::536
+Pyongyang:::::537
+QA:::::538
+Qatar:::::539
+Quito:::::540
+RO:::::541
+RS:::::542
+RU:::::543
+RW:::::544
+Rabat:::::545
+Rangoon:::::546
+Republic of Congo:::::547
+Reykjavik:::::548
+Riga:::::549
+Riyadh:::::550
+Road Town:::::551
+Romania:::::552
+Rome:::::553
+Roseau:::::554
+Russia:::::555
+Rwanda:::::556
+SA:::::557
+SB:::::558
+SC:::::559
+SD:::::560
+SE:::::561
+SG:::::562
+SH:::::563
+SI:::::564
+SJ:::::565
+SK:::::566
+SL:::::567
+SM:::::568
+SN:::::569
+SO:::::570
+SR:::::571
+SS:::::572
+ST:::::573
+SV:::::574
+SX:::::575
+SY:::::576
+SZ:::::577
+Saint Barthelemy:::::578
+Saint George's:::::579
+Saint Helena:::::580
+Saint Helier:::::581
+Saint John's:::::582
+Saint Kitts and Nevis:::::583
+Saint Lucia:::::584
+Saint Martin:::::585
+Saint Peter Port:::::586
+Saint Pierre and Miquelon:::::587
+Saint Vincent and the Grenadines:::::588
+Saint-Pierre:::::589
+Saipan:::::590
+Samoa:::::591
+San Jose:::::592
+San Juan:::::593
+San Marino:::::594
+San Salvador:::::595
+Sanaa:::::596
+Santiago:::::597
+Santo Domingo:::::598
+Sao Tome:::::599
+Sao Tome and Principe:::::600
+Sarajevo:::::601
+Saudi Arabia:::::602
+Senegal:::::603
+Seoul:::::604
+Serbia:::::605
+Seychelles:::::606
+Sierra Leone:::::607
+Singapore:::::608
+Sint Maarten:::::609
+Skopje:::::610
+Slovakia:::::611
+Slovenia:::::612
+Sofia:::::613
+Solomon Islands:::::614
+Somalia:::::615
+Somaliland:::::616
+South Africa:::::617
+South America:::::618
+South Georgia and South Sandwich Islands:::::619
+South Korea:::::620
+South Sudan:::::621
+Spain:::::622
+Sri Lanka:::::623
+Stanley:::::624
+Stockholm:::::625
+Sudan:::::626
+Suriname:::::627
+Suva:::::628
+Svalbard:::::629
+Swaziland:::::630
+Sweden:::::631
+Switzerland:::::632
+Syria:::::633
+TC:::::634
+TD:::::635
+TF:::::636
+TG:::::637
+TH:::::638
+TJ:::::639
+TK:::::640
+TL:::::641
+TM:::::642
+TN:::::643
+TO:::::644
+TR:::::645
+TT:::::646
+TV:::::647
+TW:::::648
+TZ:::::649
+Taipei:::::650
+Taiwan:::::651
+Tajikistan:::::652
+Tallinn:::::653
+Tanzania:::::654
+Tarawa:::::655
+Tashkent:::::656
+Tbilisi:::::657
+Tegucigalpa:::::658
+Tehran:::::659
+Thailand:::::660
+The Gambia:::::661
+The Settlement:::::662
+The Valley:::::663
+Thimphu:::::664
+Timor-Leste:::::665
+Tirana:::::666
+Togo:::::667
+Tokelau:::::668
+Tokyo:::::669
+Tonga:::::670
+Torshavn:::::671
+Trinidad and Tobago:::::672
+Tripoli:::::673
+Tunis:::::674
+Tunisia:::::675
+Turkey:::::676
+Turkmenistan:::::677
+Turks and Caicos Islands:::::678
+Tuvalu:::::679
+UA:::::680
+UG:::::681
+UM:::::682
+US:::::683
+US Minor Outlying Islands:::::684
+US Virgin Islands:::::685
+UY:::::686
+UZ:::::687
+Uganda:::::688
+Ukraine:::::689
+Ulaanbaatar:::::690
+United Arab Emirates:::::691
+United Kingdom:::::692
+United States:::::693
+Uruguay:::::694
+Uzbekistan:::::695
+VA:::::696
+VC:::::697
+VE:::::698
+VG:::::699
+VI:::::700
+VN:::::701
+VU:::::702
+Vaduz:::::703
+Valletta:::::704
+Vanuatu:::::705
+Vatican City:::::706
+Venezuela:::::707
+Victoria:::::708
+Vienna:::::709
+Vientiane:::::710
+Vietnam:::::711
+Vilnius:::::712
+WF:::::713
+WS:::::714
+Wallis and Futuna:::::715
+Warsaw:::::716
+Washington:::::717
+Wellington:::::718
+West Island:::::719
+Western Sahara:::::720
+Willemstad:::::721
+Windhoek:::::722
+YE:::::723
+Yamoussoukro:::::724
+Yaounde:::::725
+Yaren:::::726
+Yemen:::::727
+Yerevan:::::728
+ZA:::::729
+ZM:::::730
+ZW:::::731
+Zagreb:::::732
+Zambia:::::733
+Zimbabwe:::::734
